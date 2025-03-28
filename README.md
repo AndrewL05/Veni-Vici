@@ -44,7 +44,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![My GIF](src/assets/walkthrough.gif)
+
+https://imgur.com/gallery/walkthrough-video-5X7IyjM 
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif 
