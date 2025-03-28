@@ -57,7 +57,7 @@ GIF created with ezgif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+-Encountered issues with additional stretch features which took a while to resolve
 
 ## License
 
